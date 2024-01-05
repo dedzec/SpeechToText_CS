@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeechToText_CS", "SpeechToText_CS\SpeechToText_CS.csproj", "{1F4FE529-63E0-4374-97C4-1B3D962900A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F4FE529-63E0-4374-97C4-1B3D962900A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F4FE529-63E0-4374-97C4-1B3D962900A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F4FE529-63E0-4374-97C4-1B3D962900A8}.Debug|x86.ActiveCfg = Debug|x86
+		{1F4FE529-63E0-4374-97C4-1B3D962900A8}.Debug|x86.Build.0 = Debug|x86
+		{1F4FE529-63E0-4374-97C4-1B3D962900A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F4FE529-63E0-4374-97C4-1B3D962900A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F4FE529-63E0-4374-97C4-1B3D962900A8}.Release|x86.ActiveCfg = Release|x86
+		{1F4FE529-63E0-4374-97C4-1B3D962900A8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBA884D1-5302-4C17-BB6B-3D98267091C2}
+	EndGlobalSection
+EndGlobal

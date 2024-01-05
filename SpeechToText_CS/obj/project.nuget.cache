@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "99TVSIasmMCm+99iIBti+Sr1etWTEBq9GkN38MedDOqLlllEkeLf1Y5Rt7KZyuRaJDlyKerdbLCexZMpRuAoRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dedzec\\Documents\\ProjectsVS\\SpeechToText_CS\\SpeechToText_CS\\SpeechToText_CS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dedzec\\.nuget\\packages\\system.speech\\8.0.0\\system.speech.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
